@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+코드 입문자의 코드 공부 공간입니다.
 <!--
 **codingjbot/CodingJBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
